@@ -20,7 +20,7 @@ public class DynamicArray<T> implements List<T> {
     }
 
     @Override
-    public void add(T value) {
+    public void push(T value) {
         checkCapacity();
         data[size++] = value;
     }

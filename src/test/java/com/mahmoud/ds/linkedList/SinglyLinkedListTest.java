@@ -22,9 +22,9 @@ class SinglyLinkedListTest {
     }
 
     @Test
-    void add_shouldIncreaseSize() {
-        list.add(10);
-        list.add(20);
+    void push_shouldIncreaseSize() {
+        list.push(10);
+        list.push(20);
 
         assertEquals(2, list.size());
         assertFalse(list.isEmpty());
@@ -32,9 +32,9 @@ class SinglyLinkedListTest {
 
     @Test
     void get_shouldReturnCorrectElement() {
-        list.add(5);
-        list.add(15);
-        list.add(25);
+        list.push(5);
+        list.push(15);
+        list.push(25);
 
         assertEquals(5, list.get(0));
         assertEquals(15, list.get(1));
@@ -43,7 +43,7 @@ class SinglyLinkedListTest {
 
     @Test
     void get_invalidIndex_shouldThrowException() {
-        list.add(1);
+        list.push(1);
 
         assertThrows(IndexOutOfBoundsException.class,
                 () -> list.get(5));
@@ -51,9 +51,9 @@ class SinglyLinkedListTest {
 
     @Test
     void remove_firstElement_shouldUpdateHead() {
-        list.add(1);
-        list.add(2);
-        list.add(3);
+        list.push(1);
+        list.push(2);
+        list.push(3);
 
         int removed = list.remove(0);
 
@@ -64,9 +64,9 @@ class SinglyLinkedListTest {
 
     @Test
     void remove_middleElement_shouldLinkNodesCorrectly() {
-        list.add(1);
-        list.add(2);
-        list.add(3);
+        list.push(1);
+        list.push(2);
+        list.push(3);
 
         int removed = list.remove(1);
 
@@ -78,8 +78,8 @@ class SinglyLinkedListTest {
 
     @Test
     void remove_lastElement_shouldWork() {
-        list.add(7);
-        list.add(8);
+        list.push(7);
+        list.push(8);
 
         int removed = list.remove(1);
 

@@ -24,7 +24,7 @@ public class SinglyLinkedList<T> implements List<T> {
     }
 
     @Override
-    public void add(T value) {
+    public void push(T value) {
         // Create new node
         Node<T> newNode = new Node<>(value);
 

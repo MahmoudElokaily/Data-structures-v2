@@ -2,7 +2,7 @@ package main.java.com.mahmoud.ds.core;
 
 public interface List<T> {
     // To Add New Element
-    void add(T value);
+    void push(T value);
 
     // To get specific item from List
     T get(int index);
