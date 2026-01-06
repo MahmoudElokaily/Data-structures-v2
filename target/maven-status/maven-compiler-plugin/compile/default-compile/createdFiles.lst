@@ -1,2 +1,4 @@
 main/java/com/mahmoud/ds/linear/array/DynamicArray.class
 main/java/com/mahmoud/ds/core/List.class
+main/java/com/mahmoud/ds/linear/linkedList/SinglyLinkedList$Node.class
+main/java/com/mahmoud/ds/linear/linkedList/SinglyLinkedList.class
