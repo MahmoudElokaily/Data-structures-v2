@@ -1,6 +1,12 @@
+main/java/com/mahmoud/ds/core/Stack.class
+main/java/com/mahmoud/ds/linear/linkedList/DoublyLinkedList$Node.class
+main/java/com/mahmoud/ds/linear/stack/ArrayStack.class
+main/java/com/mahmoud/ds/linear/queue/LinkedQueue.class
 main/java/com/mahmoud/ds/linear/array/DynamicArray.class
+main/java/com/mahmoud/ds/core/Queue.class
+main/java/com/mahmoud/ds/linear/queue/ArrayQueue.class
 main/java/com/mahmoud/ds/core/List.class
 main/java/com/mahmoud/ds/linear/linkedList/SinglyLinkedList$Node.class
-main/java/com/mahmoud/ds/linear/linkedList/DoublyLinkedList$Node.class
+main/java/com/mahmoud/ds/linear/stack/LinkedStack.class
 main/java/com/mahmoud/ds/linear/linkedList/DoublyLinkedList.class
 main/java/com/mahmoud/ds/linear/linkedList/SinglyLinkedList.class

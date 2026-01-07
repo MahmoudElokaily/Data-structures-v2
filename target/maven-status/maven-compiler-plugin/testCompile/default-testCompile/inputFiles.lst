@@ -1,3 +1,7 @@
 /home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/linear/DynamicArrayTest.java
 /home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/linkedList/DoublyLinkedListTest.java
 /home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/linkedList/SinglyLinkedListTest.java
+/home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/queue/ArrayQueueTest.java
+/home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/queue/LinkedQueueTest.java
+/home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/stack/ArrayStackTest.java
+/home/elokaily/IdeaProjects/DS/src/test/java/com/mahmoud/ds/stack/LinkedStackTest.java
