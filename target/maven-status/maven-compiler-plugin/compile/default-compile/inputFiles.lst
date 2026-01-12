@@ -1,6 +1,7 @@
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/core/List.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/core/Queue.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/core/Stack.java
+/home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/core/Tree.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/array/DynamicArray.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/linkedList/DoublyLinkedList.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/linkedList/SinglyLinkedList.java
@@ -8,3 +9,4 @@
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/queue/LinkedQueue.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/stack/ArrayStack.java
 /home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/linear/stack/LinkedStack.java
+/home/elokaily/IdeaProjects/DS/src/main/java/com/mahmoud/ds/tree/BinarySearchTree.java

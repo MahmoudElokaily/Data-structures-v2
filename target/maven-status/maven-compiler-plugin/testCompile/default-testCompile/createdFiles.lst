@@ -2,6 +2,7 @@ test/java/com/mahmoud/ds/stack/LinkedStackTest.class
 test/java/com/mahmoud/ds/queue/ArrayQueueTest.class
 test/java/com/mahmoud/ds/queue/LinkedQueueTest.class
 test/java/com/mahmoud/ds/linkedList/SinglyLinkedListTest.class
+test/java/com/mahmoud/ds/binarySearchTreeTest/BinarySearchTreeTest.class
 test/java/com/mahmoud/ds/linear/DynamicArrayTest.class
 test/java/com/mahmoud/ds/linkedList/DoublyLinkedListTest.class
 test/java/com/mahmoud/ds/stack/ArrayStackTest.class
